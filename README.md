@@ -210,13 +210,5 @@ define('DB_PASS', '');
 | **XAMPP** | Local development server (Apache + MySQL) |
 | **Apache `.htaccess`** | URL rewriting & access control |
 
----
-
-## 📝 License
-
-This project is proprietary software developed for **SIAX**.  
-All rights reserved © 2026 SIAX. Unauthorized distribution is prohibited.
-
----
 
 *Empowering schools with smarter administration. 🏫*
